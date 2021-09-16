@@ -1,0 +1,61 @@
+h1 {
+  font-size: 19px;
+  font-weight: normal;
+  font-family: sans-serif;
+  color: white;
+  background: linear-gradient(90deg, #b4131b,  #d56066, #b4131b);
+  padding: 37px 0 50px 70px;
+  margin: 0 0 0 0;
+  position: absolute; top: 0; left: 0; right: 0; bottom: 580px;
+}
+
+
+img {
+  position: absolute; top: 15px
+}
+body {
+  height: 100vh;
+  background: linear-gradient(to bottom, white,#b71921)
+}
+
+h2 {
+  font-family: 'Open Sans',sans-serif, helvetica, arial;
+  text-align: center;
+  padding: 120px 0 0 0;
+}
+
+.box {
+  border: solid 3px;
+  border-radius: 8px;
+  background-color: grey;
+  display: flexbox;
+  /*margin: 30px 450px 30px 450px;
+  padding: 50px 0 300px 0;*/
+}
+
+.signin {
+  font-family: 'Open Sans',sans-serif, helvetica, arial;
+  font-size: 14px;
+}
+input {
+  margin: 0 0 0 0;
+  padding: 5px;
+}
+
+button {
+  border: solid white 1px;
+  border-radius: 2px;
+  position: relative;
+  margin-top: 10px;
+  padding: 15px;
+  background-color: #b4131b;
+  color: white;
+  font-family: 'Open Sans',sans-serif, helvetica, arial;
+}
+
+.forg, .click {
+  display: inline;
+  color: white;
+  font-size: 12px;
+  font-family: 'Open Sans',sans-serif, helvetica, arial;
+}
